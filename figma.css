@@ -1,0 +1,237 @@
+.nav-pages {
+  width: 678px;
+  height: 0px;
+  left: 271px;
+  top: 64px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 0px;
+  letter-spacing: 0.16px;
+  text-transform: uppercase;
+  color: black;
+  margin-left: 2px;
+}
+
+.logo {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 34px;
+  color: #ffffff;
+}
+.line {
+  position: absolute;
+  width: 0px;
+  height: 80px;
+  left: 144px;
+  top: 0px;
+  border: 1px solid #ffffff;
+}
+.social-media {
+  margin-right: 21px;
+}
+.search-2 {
+  margin-right: -85px;
+}
+.line2 {
+  position: absolute;
+  width: 0px;
+  height: 80px;
+  left: 1053px;
+  top: 0px;
+  border: 1px solid #ffffff;
+}
+.line3 {
+  position: absolute;
+  width: 0px;
+  height: 80px;
+  left: 1106px;
+  top: 0px;
+  border: 1px solid #ffffff;
+}
+.contect {
+  margin-left: 104px;
+}
+.line4 {
+  position: absolute;
+  width: 100%;
+  top: 79px;
+  border: 1px solid #ffffff;
+}
+.baner {
+  background: grey;
+  height: 450px;
+}
+.codeshaper {
+  width: 303px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 33px;
+  letter-spacing: 0.042px;
+  text-transform: uppercase;
+  color: #fcfcfc;
+  margin-left: 169px;
+  padding-top: 59px;
+}
+.m-heding {
+  margin-left: 165px;
+  line-height: 52px;
+  color: #fcfcfc;
+  margin-top: -9px;
+  font-weight: 700;
+  font-size: 60px;
+}
+.background {
+  background: #0f0d1d;
+  height: 700px;
+}
+.heading-2 {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 60px;
+  text-align: center;
+  padding-top: 80px;
+  color: #ffffff;
+}
+.p {
+  color: #726f84;
+  text-align: center;
+  margin-top: -13px;
+  font-size: 13px;
+}
+.wealth {
+  background: #000000;
+  width: 23%;
+  height: 200px;
+  padding-left: 35px;
+  display: flex;
+}
+.w-2 {
+  color: #ffffff;
+  font-size: 21px;
+  font-weight: 700;
+  padding-top: 50px;
+}
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 74px;
+}
+.line5 {
+  position: absolute;
+  width: 46%;
+  top: 1040px;
+  border: 1px solid #ffffff;
+}
+.line6 {
+  position: absolute;
+  width: 594px;
+  top: 1040px;
+  border: 1px solid #ffffff;
+  margin-left: 701px;
+}
+.market-h {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 42px;
+  letter-spacing: -0.016px;
+  text-transform: uppercase;
+  color: #0f0d1d;
+}
+.market-p {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 17px;
+  color: #726f84;
+}
+.leading {
+  display: flex;
+  margin-top: 114px;
+  margin-left: 185px;
+}
+.phone {
+  display: flex;
+  margin-top: 41px;
+}
+.aivons {
+  font-family: emoji;
+  font-style: initial;
+  font-weight: 300;
+  font-size: 71px;
+  line-height: 171px;
+  letter-spacing: 20.842px;
+  color: #f2f4f8;
+  transform: rotate(90deg);
+  margin-top: -255px;
+  margin-left: 253px;
+}
+.prof {
+  display: flex;
+  width: 290px;
+  padding: 41px;
+  height: 96px;
+  background: #ffffff;
+  box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.16);
+}
+.case-h {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 60px;
+  letter-spacing: -0.016px;
+  text-transform: uppercase;
+  color: #0f0d1d;
+  text-align: center;
+  padding-top: 104px;
+}
+.case-p {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 0px;
+  letter-spacing: -0.36px;
+  color: #8f8da0;
+  text-align: center;
+}
+.search {
+  position: relative;
+  box-shadow: 0 0 40px rgba(51, 51, 51, 0.1);
+}
+
+.search input {
+  height: 60px;
+  text-indent: 25px;
+  border: 2px solid #d6d4d4;
+}
+.search input:focus {
+  box-shadow: none;
+  border: 2px solid blue;
+}
+
+.search .fa-search {
+  position: absolute;
+  top: 20px;
+  left: 16px;
+}
+
+.search button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  height: 50px;
+  width: 110px;
+  background: blue;
+}
